@@ -185,9 +185,8 @@
 
         <TextView
             android:id="@+id/textViewNama"
-            android:layout_width="349dp"
+            android:layout_width="143dp"
             android:layout_height="wrap_content"
-            android:gravity="right|bottom" />
-
+            android:layout_gravity="right" />
     </LinearLayout>
 </ScrollView>
